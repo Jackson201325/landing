@@ -1,0 +1,7 @@
+.banner {
+  display: flex;
+  background-image: url('../../images/background.png');
+  background-size: cover;
+  height: 80vh;
+  align-items: center;
+}
